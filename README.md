@@ -20,3 +20,6 @@
 | 7 | 저장소에 밀어넣기 | git push origin master(or main) |
 | 8 | 원격에서만 삭제 | git rm --cached -r [폴더명] -> commit, push |
 | 9 | 원격 로컬 모두 삭제 | git rm -rf [폴더명] -> commit, push |
+| 10 | 이력 확인 | git log|
+|11| 특정상태 복귀 | git reset --hard <commit_id> |
+|12| 직전상태 복귀 | git reset --hard HEAD^|
