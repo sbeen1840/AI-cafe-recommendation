@@ -1,3 +1,7 @@
+## 수상기록
+![KakaoTalk_20221102_160940229](https://user-images.githubusercontent.com/108644811/199635931-2a8760bb-8556-492f-ba6c-e80892b5a7cc.jpg)
+
+
 ## 🔰  team members
 | 학과 | 이름 | 비고 |
 | -------- | ---- | ---- |
